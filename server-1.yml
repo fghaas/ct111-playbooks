@@ -17,4 +17,5 @@
         network: ansible_net
         auto_ip: true
         security_groups: default
+        config_drive: true
         wait: true
